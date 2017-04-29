@@ -1,0 +1,5 @@
+1.fadeIn()
+2.show()
+3.animate()
+4.hide()
+5.fadeOut()
